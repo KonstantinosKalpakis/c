@@ -1,1 +1,1 @@
-sql examples
+sql examples from hackerank
